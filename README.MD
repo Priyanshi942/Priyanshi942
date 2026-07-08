@@ -52,8 +52,14 @@ Passionate about building scalable web applications and solving real-world probl
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/Priyanshi Singh/">
+<a href="https://leetcode.com/prisam1204
+/">
   <img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+
+<a href="https://www.geeksforgeeks.org/user/priyanshidr1e/">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="48" height="48"/>
 </a>
 
 </p>
