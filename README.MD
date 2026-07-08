@@ -44,11 +44,11 @@ Passionate about building scalable web applications and solving real-world probl
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/priyanshi-ghosh-aa3150325">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:priyanshighosh001@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
