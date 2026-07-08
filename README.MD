@@ -52,6 +52,10 @@ Passionate about building scalable web applications and solving real-world probl
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://leetcode.com/Priyanshi Singh/">
+  <img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
 </p>
 
 ---
