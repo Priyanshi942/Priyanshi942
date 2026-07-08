@@ -42,28 +42,27 @@ Passionate about building scalable web applications and solving real-world probl
 
 # 🌐 Connect with Me
 
+## 🌐 Connect with Me
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/priyanshi-ghosh-aa3150325">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/priyanshi-ghosh-aa3150325/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:priyanshighosh001@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://leetcode.com/prisam1204
-/">
-  <img src="https://skillicons.dev/icons?i=leetcode"/>
+<a href="https://leetcode.com/u/prisam1204/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
 
-
-<a href="https://www.geeksforgeeks.org/user/priyanshidr1e/">
-  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="48" height="48"/>
+<a href="https://www.geeksforgeeks.org/profile/priyanshidr1e/" target="_blank">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="48" height="48" />
 </a>
 
 </p>
-
 ---
 
 <p align="center">
