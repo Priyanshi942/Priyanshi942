@@ -1,1 +1,69 @@
-#Hi,I'm Priyanshi Ghosh
+<div align="center">
+
+# Hey, I'm Priyanshi Ghosh ✨
+
+### 💻 Aspiring Full Stack Developer 🚀
+
+Passionate about building scalable web applications and solving real-world problems.
+
+🌱 Currently learning **MERN Stack & DSA**
+
+💡 Exploring Backend Development | REST APIs | MongoDB | React
+
+✨ *"Every project teaches something new. Keep learning, keep building!"*
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshi942&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi942&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi942&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Priyanshi942&color=blue)
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</p>
