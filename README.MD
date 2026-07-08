@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Priyanshi Ghosh ✨
+# Hey, I'm Priyanshi Ghosh 
 
 ### 💻 Aspiring Full Stack Developer 🚀
 
@@ -8,7 +8,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 🌱 Currently learning **MERN Stack & DSA**
 
-💡 Exploring Backend Development | REST APIs | MongoDB | React
+💡 Exploring Backend Development | REST APIs | MongoDB | Learning React
 
 ✨ *"Every project teaches something new. Keep learning, keep building!"*
 
