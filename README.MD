@@ -44,7 +44,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/priyanshi-ghosh-aa3150325">
+<a href="https://www.linkedin.com/in/priyanshi-ghosh-aa3150325">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
