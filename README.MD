@@ -20,7 +20,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman,Hoppscotch,Multer,Cloudinary" />
 
 </p>
 
