@@ -73,6 +73,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile :)⭐
 
 </p>
