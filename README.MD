@@ -2,7 +2,7 @@
 
 # Hey, I'm Priyanshi Ghosh 
 
-### 💻 Aspiring Full Stack Developer 🚀
+###  Aspiring Full Stack Developer 🚀
 
 Passionate about building scalable web applications and solving real-world problems.
 
